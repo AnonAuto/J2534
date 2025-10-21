@@ -1,6 +1,6 @@
 # J2534
 In 32 bit Python.  
-'''
+'
 
     The Anonymous Automotive Alliance Presents 
 
@@ -14,4 +14,4 @@ In 32 bit Python.
 
         Without it what would we have?
 
-'''
+'
