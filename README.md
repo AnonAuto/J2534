@@ -238,8 +238,6 @@ J2534.py
 │   ├── SParamList           # Parameter list
 │   ├── SByteArray           # Byte array structure
 │   ├── SDEVICE              # Device structure
-│   ├── OBDX_DeviceDetails   # Device details
-│   └── OBDX_DeviceDetailsList
 │
 └── Utilities
     ├── NativeMethods        # Native DLL interaction
@@ -1599,12 +1597,6 @@ def get_device_version(j2534, deviceId):
 
 7. **Documentation**: Keep SAE J2534 specification handy for reference.
 
-## License
-
-This library is a Python port of C# code. Original copyright attribution:
-```
-Copyright Envyous Customs - J2534 API DLL - For Authorised Applications Only.
-```
 
 ## Contributing
 
