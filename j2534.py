@@ -94,7 +94,7 @@
 
              A J2534 Implementation.
 
-              In 32 bit Python.
+               In 32 bit Python.
 
               Deployed 21/10/2025
 
